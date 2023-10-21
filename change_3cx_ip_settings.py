@@ -25,7 +25,7 @@ driver = webdriver.Chrome()
 
 # First, go to the login page
 print("Navigating to login page...")
-login_url = "https://4395.east.3cx.us/#/login"
+login_url = "https://4395.east.3cx.us/#/login" # Update this to the actual URL
 driver.get(login_url)
 
 # Wait for the login page to load
