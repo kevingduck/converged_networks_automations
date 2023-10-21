@@ -1,7 +1,7 @@
 """
 Automation script for this process: https://youtu.be/xWQro7ZHbao
 Remember to include a XLS file in the same directory with IDs to look up
-Set password in environment or below before running
+Run pip install -r requirements.txt and set password in environment or below before running
 """
 
 from selenium import webdriver
