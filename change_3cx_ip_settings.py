@@ -1,6 +1,7 @@
 """
 Automation script for this process: https://youtu.be/xWQro7ZHbao
 Remember to include a XLS file in the same directory with IDs to look up
+Install the appropriate Chrome driver here https://chromedriver.chromium.org/downloads
 Run pip install selenium pandas and set password in environment or below before running
 """
 
